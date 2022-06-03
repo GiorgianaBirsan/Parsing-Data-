@@ -1,0 +1,45 @@
+{
+ "persons" : [
+  {
+   "last": "Ling",
+   "first": "Mai",
+   "salary": "55900"
+  },
+    {
+   "last": "Johnson",
+   "first": "Jim",
+   "salary": "56500"
+  },
+    {
+   "last": "Jones",
+   "first": "Aaron",
+   "salary": "46000"
+  },
+    {
+   "last": "Mirel",
+   "first": "Andrei",
+   "salary": "65423"
+  },
+    {
+   "last": "Mircea",
+   "first": "Dragomir",
+   "salary": "56465"
+  },
+   {"last": "Nelu",
+   "first": "Vasile",
+   "salary": "56454"
+   },
+    {"last": "Adriana",
+   "first": "Dragomir",
+   "salary": "25632"
+   },
+    {"last": "Vasilica",
+   "first": "Nicu",
+   "salary": "65425"
+   },
+    {"last": "Alin",
+   "first": "Piticu",
+   "salary": "65232"
+   }
+ ]
+}
